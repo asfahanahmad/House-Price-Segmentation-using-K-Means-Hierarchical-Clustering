@@ -1,0 +1,2 @@
+# House-Price-Segmentation-using-K-Means-Hierarchical-Clustering
+This project applies unsupervised machine learning techniques to segment houses in the Ames Housing dataset based on their characteristics. K-Means Clustering and Hierarchical Clustering are used to identify groups of similar properties, enabling better understanding of housing patterns and supporting data-driven real estate analysis.
